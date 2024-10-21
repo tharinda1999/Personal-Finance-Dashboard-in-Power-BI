@@ -49,3 +49,10 @@ This Power BI project aims to track and visualize personal financial data over a
 - Adding forecasting capabilities using Power BI’s time series tools to predict future savings and expenses.
 - Further refinement of KPIs to include metrics like **debt-to-income ratio**, **net worth growth**, or **retirement savings projections**.
 
+<h2>Overview</h2><br>
+
+![Dashboardpage2](https://github.com/tharinda1999/-Analysis-Dashboard/blob/main/Overview.png)<br><br>
+
+Tharinda Sandeepa Gamage<br> 
+  tharindasandeepacampus2@gmail.com
+
